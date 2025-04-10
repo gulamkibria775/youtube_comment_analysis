@@ -6,7 +6,7 @@ import logging
 import os
 
 # Set up MLflow tracking URI
-mlflow.set_tracking_uri("https://dagshub.com/gulamkibria775/Youtube-comment-analysis.mlflow")
+mlflow.set_tracking_uri("http://127.0.0.1:5000")
 
 
 # logging configuration
